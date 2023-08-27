@@ -2,7 +2,7 @@
 My Flatiron Phase 1 Project
 
 README
-Ruben's Phase 1 Project, a website for video games for ps5, ps4, xbox series x, xbox one, wii u, and pc. Navigate through the page and see which game you'd like to choose.
+Ruben's Phase 1 Project, a website for video games for ps5, ps4, xbox series x, xbox one, wii u, and pc. Navigate through the page and see which game you'd like to choose. 17 commits.
 
 Video Demo
  The video requires my email approval for access; it was the only way I can turn the recording into a link, my apologies. 
